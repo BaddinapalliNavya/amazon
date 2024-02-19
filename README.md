@@ -1,4 +1,4 @@
 # amazon
 This is my second repository
 <br>
-Author-Navya ashadapu
+Author-Navya baddinapalli
